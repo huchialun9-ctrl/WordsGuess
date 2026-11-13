@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "WordsGuess",
+      "hasCanvas": false,
+      "bodyTextLen": 631,
+      "bodyTextHash": "0fabba9d1de8331eee8ed6f727a0584bbd4c658af234597a04227d3764cf2cce",
+      "bodyTextPrefix": "WordsGuess NO. 317 Q W E R T Y U I O P A S D F G H J K L ENTER Z",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "WordsGuess",
+      "hasCanvas": false,
+      "bodyTextLen": 631,
+      "bodyTextHash": "0fabba9d1de8331eee8ed6f727a0584bbd4c658af234597a04227d3764cf2cce",
+      "bodyTextPrefix": "WordsGuess NO. 317 Q W E R T Y U I O P A S D F G H J K L ENTER Z",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (74 -> 631 chars, hash mismatch)"
+  ]
+}

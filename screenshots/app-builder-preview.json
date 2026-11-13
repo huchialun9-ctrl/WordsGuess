@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "WordsGuess",
+      "hasCanvas": false,
+      "bodyTextLen": 74,
+      "bodyTextHash": "15bd2b174bf1d67a0ef41832aab1926e90335341051bce280fdae57ffa8dbbf0",
+      "bodyTextPrefix": "WordsGuess DAILY Q W E R T Y U I O P A S D F G H J K L ENTER Z X",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "WordsGuess",
+      "hasCanvas": false,
+      "bodyTextLen": 631,
+      "bodyTextHash": "0fabba9d1de8331eee8ed6f727a0584bbd4c658af234597a04227d3764cf2cce",
+      "bodyTextPrefix": "WordsGuess NO. 317 Q W E R T Y U I O P A S D F G H J K L ENTER Z",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
