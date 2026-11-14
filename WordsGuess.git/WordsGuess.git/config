@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/huchialun9-ctrl/WordsGuess1.git
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+[remote "destination"]
+	url = https://github.com/huchialun9-ctrl/WordsGuess1.git
+	fetch = +refs/heads/*:refs/remotes/destination/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main

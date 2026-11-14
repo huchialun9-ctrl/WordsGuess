@@ -4,7 +4,7 @@ import { n as require_jsx_runtime } from "../_libs/radix-ui__react-context+react
 import { a as Delete, n as VolumeX, o as CircleHelp, r as Volume2, s as ChartColumn, t as X } from "../_libs/lucide-react.mjs";
 import { a as DialogPortal, i as DialogOverlay, n as DialogClose, o as DialogTitle, r as DialogContent, t as Dialog } from "../_libs/@radix-ui/react-dialog+[...].mjs";
 import { t as clsx } from "../_libs/clsx.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/routes-y6CL2dPB.js
+// node_modules/.nitro/vite/services/ssr/assets/routes-C6PF1dNa.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var SOLUTIONS = [
@@ -10800,5 +10800,4 @@ function ShareDialog({ open, onOpenChange, copied, body, onReddit, onCopy }) {
 function Home() {
 	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(WordsGuess, {});
 }
-//#endregion
 export { Home as component };

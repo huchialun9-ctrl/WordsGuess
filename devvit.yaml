@@ -1,0 +1,8 @@
+name: wordsguess
+version: 0.0.1
+plugins:
+  - redis
+  - menu
+  - scheduler
+webview:
+  watch: ./dist
